@@ -4,8 +4,10 @@ keywords: five #博客关键字
 author: "five"
 
 #title hide and show
-hide: (つェ⊂)我藏好啦
-show: ´∇｀ 呀被发现啦~ 
+# hide: (つェ⊂)我藏好啦
+# show: ´∇｀ 呀被发现啦~ 
+hide: 你怎么还不理我╰（‵□′）╯
+show: 一个人也行,才没有想你（︶^︶）
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if in root.
 url: "https://Fives-Lamented-Journey.github.io" # change this to the base hostname & protocol for your site
